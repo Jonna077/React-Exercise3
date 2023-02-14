@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Samsung Flip 3",
+      "price": "52990",
+      "image": "https://m.media-amazon.com/images/I/61bfdXk7nfL._AC_SL1500_.jpg",
+      "description": "Samasung Unit"
+    },
+    {
+      "id": "2",
+      "title": "PlayStation 5",
+      "price": "63689",
+      "image": "https://m.media-amazon.com/images/I/619BkvKW35L._SL1500_.jpg",
+      "description": "Play Station Unit"
+    },
+    {
+      "id": "3",
+      "title": "XBox Series 5",
+      "price": "17750",
+      "image": "https://m.media-amazon.com/images/I/71NBQ2a52CL._SL1500_.jpg",
+      "description": "XBox Unit"
+    }
+  ]
+}
